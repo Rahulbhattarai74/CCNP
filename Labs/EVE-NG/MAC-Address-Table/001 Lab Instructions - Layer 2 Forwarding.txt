@@ -1,0 +1,17 @@
+##IP Info##
+Subnet 1: 192.168.1.0/24
+R1 G0/0: 192.168.1.1/24
+SW1 VLAN1: 192.168.1.2/24
+SRV1: 192.168.1.11/24
+SRV2: 192.168.1.12/24
+SRV3: 192.168.1.13/24
+
+##Lab Instructions##
+
+1. Start a packet capture on the link between R1 and SW1. 
+
+2. Use R1 to generate unicast and broadcast traffic in the network.
+
+3. Disable MAC address aging on SW1.
+
+4. Statically configure R1's MAC address on SW1.
