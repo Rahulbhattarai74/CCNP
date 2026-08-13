@@ -288,9 +288,7 @@ Use Wireshark to examine the ARP exchanges generated during the lab.
 
 ---
 
-# Author
 
-**Rahul Bhattarai**
 
 CCNP Enterprise Study Repository
 
