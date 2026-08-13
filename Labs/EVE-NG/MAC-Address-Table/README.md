@@ -283,9 +283,7 @@ MAC-Address-Table/
 
 ---
 
-# Author
 
-**Rahul Bhattarai**
 
 CCNP Enterprise Study Repository
 
