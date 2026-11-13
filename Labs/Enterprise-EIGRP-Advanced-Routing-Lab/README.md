@@ -58,6 +58,31 @@ show route-map
 - Devices: Cisco IOS Routers and Switches
 - Routing Protocol: EIGRP AS 100
 
+
+## Screenshots
+
+### 1. Network Topology
+![EIGRP Topology](Screenshots/01_EIGRP_Topology.png)
+
+### 2. EIGRP Neighbors
+![EIGRP Neighbors](Screenshots/02_EIGRP_Neighbors.png)
+
+### 3. MD5 Authentication
+![MD5 Authentication](Screenshots/03_MD5_Authentication.png)
+
+### 4. Route Summarization
+![Route Summarization](Screenshots/04_Route_Summarization.png)
+
+### 5. Route Leaking
+![Route Leaking](Screenshots/05_Route_Leaking.png)
+
+### 6. Route Filtering Configuration
+![Route Filtering Config](Screenshots/06_Route_Filtering_Config.png)
+
+### 7. Route Filtering Verification
+![Route Filtering Verification](Screenshots/07_Route_Filtering_Verification.png)
+
+
 ## Author
 Rahul Bhattarai
 
